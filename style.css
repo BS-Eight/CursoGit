@@ -1,0 +1,33 @@
+html {
+    background: linear-gradient(white, darkGray);
+    scroll-behavior: smooth;
+    font-size: 20px;
+}
+header,nav,section,footer {
+    background-color: LightBlue ;
+    border-style: 1;
+    margin: 10px;
+    width: 90%;
+    padding: 20px;
+    display: block;
+    border-radius: 10px;
+}  
+.bloques{
+    background-color: brown;
+}
+#nombre{
+    color: brown;
+}
+nav a{
+    text-decoration: none;
+    margin: 15px;
+    color: black;
+}
+nav{
+    text-align: center;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
